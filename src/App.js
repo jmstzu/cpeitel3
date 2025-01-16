@@ -26,7 +26,7 @@ function NameHeader() {
 }
 
 function App() {
-  const [disp, setDisp] = useState(0);
+  const [disp, setDisp] = useState("C-PEITEL3 EXPECTATIONS");
   const items = [
     'Being On Time',
     'Making An Effort',

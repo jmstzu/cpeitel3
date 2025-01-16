@@ -17,7 +17,6 @@
 }
 
 .DispContainer {
-  text-align: center;
   margin-bottom: 10px;
   border-radius: 25px;
   margin-left: 5px;
@@ -55,7 +54,7 @@
 
 .Display {
   font-size: 2em;
-  text-align: right;
+  text-align: center;
 }
 
 .DispContainer::-webkit-scrollbar {
